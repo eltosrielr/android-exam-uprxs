@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HelloUser</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="app_name_title">Hello User</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="add_user_spiel">Hello! Can I have your info?</string>
+    <string name="first_name">First name</string>
+    <string name="last_name"> Last name</string>
+    <string name="address">Address</string>
+    <string name="birth_date">MM/DD/YYYY</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="email_address">Email address</string>
+
+    <string name="contact_spiel">Contact</string>
+    <string name="name">Name</string>
+    <string name="contact_number">Contact number</string>
+
+    <string name="add">ADD</string>
+
+    <string name="user_name">Name</string>
+    <string name="user_email">Email</string>
+</resources>
